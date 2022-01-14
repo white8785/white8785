@@ -1,8 +1,8 @@
-# AboutMe
+[![Crazy Talk](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge\&logo=discord\&logoColor=23272a\&color=7289da)](https://discord.gg/Zh9TdFf2FX) [![Personal youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=for-the-badge\&logo=youtube\&logoColor=white\&color=red)](https://youtube.com/white8785/) [![@white8785 twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge\&logo=twitter\&logoColor=white\&color=blue)](https://twitter.com/white8785/) [![jrwhite44 instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=for-the-badge\&logo=instagram\&logoColor=white\&color=orange)](https://www.instagram.com/white8785.eth/)
 
 ```python
 AboutMe = {
-    Name: "J.R. White",
+    Name: "white8785.eth",
     Languages: [
         "Python",
         "Solidity",
@@ -18,10 +18,13 @@ AboutMe = {
 }
 ```
 
-### Social media links
+The pinned repos below are my most active repos atm.  I am currently working on a Python course to help with some volunteer efforts I do, helping out with theopendao.com, and getting a crypto software startup going to take on our first client interested in NFTs.  I'm open to helpful constructive feedback.  You can find me on [Discord](https://discord.gg/Zh9TdFf2FX) or [Twitter](https://twitter.com/white8785).
 
-[![Crazy Talk](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge\&logo=discord\&logoColor=23272a\&color=7289da)](https://discord.gg/Zh9TdFf2FX) [![Personal youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=for-the-badge\&logo=youtube\&logoColor=white\&color=red)](https://youtube.com/white8785/) [![@white8785 twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge\&logo=twitter\&logoColor=white\&color=blue)](https://twitter.com/white8785/) [![jrwhite44 instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=for-the-badge\&logo=instagram\&logoColor=white\&color=orange)](https://www.instagram.com/white8785.eth/)
+Crypto **Donations** are accepted @ white8785.eth.
 
-Crypto Donations accepted @ white8785.eth.
+Thanks for looking.
 
-![](https://komarev.com/ghpvc/?username=white8785\&style=flat-square\&color=7289da)
+
+
+
+<img align="right" src="https://komarev.com/ghpvc/?username=white8785">
