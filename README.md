@@ -18,7 +18,7 @@ AboutMe = {
 }
 ```
 
-The pinned repos below are my most active repos atm.  I am currently working on a Python course to help with some volunteer efforts I do, helping out with theopendao.com, and getting a crypto software startup going to take on our first client interested in NFTs.  I'm open to helpful constructive feedback.  You can find me on [Discord](https://discord.gg/Zh9TdFf2FX) or [Twitter](https://twitter.com/white8785).
+The pinned repos below are my most active repos atm.  I am currently building an Web3 Company focused on Blockchain technologies.  You can find me on [Discord](https://discord.gg/Zh9TdFf2FX) or [Twitter](https://twitter.com/white8785).
 
 Crypto **Donations** are accepted @ white8785.eth.
 
